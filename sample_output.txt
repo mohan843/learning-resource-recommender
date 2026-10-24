@@ -1,0 +1,5 @@
+$ python recommender.py --profile "I want to learn tokenization and text classification"
+Recommended resources:
+  Natural Language Processing Basics [beginner] — similarity 0.478
+  Deep Neural Networks [advanced] — similarity 0.291
+  Practical Machine Learning [intermediate] — similarity 0.143

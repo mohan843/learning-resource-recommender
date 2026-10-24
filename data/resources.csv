@@ -1,0 +1,11 @@
+title,topic,description,level
+Python Data Analysis with Pandas,data analysis,cleaning tabular data feature engineering data frames visualization,beginner
+Practical Machine Learning,machine learning,supervised classification regression evaluation cross validation models,intermediate
+Deep Neural Networks,deep learning,backpropagation neural networks optimization tensors image and text models,advanced
+Computer Vision Foundations,computer vision,image processing convolution filters object recognition visual features,beginner
+Natural Language Processing Basics,nlp,text preprocessing tokenization embeddings document classification language,beginner
+MLOps Model Deployment,machine learning,model serving monitoring reproducibility containers production pipelines,advanced
+Statistics for Data Science,data analysis,probability distributions hypothesis testing experiments correlation,beginner
+Generative AI Applications,generative ai,transformers prompt engineering retrieval augmented generation language models,intermediate
+Recommendation Systems,machine learning,collaborative filtering content based ranking similarity personalization,intermediate
+Time Series Forecasting,data science,trend seasonality moving averages forecasting evaluation,intermediate
